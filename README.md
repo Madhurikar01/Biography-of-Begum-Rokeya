@@ -11,7 +11,7 @@ This project is a tribute webpage dedicated to **Begum Rokeya Sakhawat Hossain**
 - Overview of her social and political activism
 - Information on her legacy and posthumous awards
 - Eponyms named in her honor
-- 
+  
 ## Technologies Used
 
 - HTML
@@ -23,10 +23,8 @@ This project is a tribute webpage dedicated to **Begum Rokeya Sakhawat Hossain**
 To view the webpage locally:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/begum-rokeya-tribute.git
-
-2. Navigate to the project directory: cd begum-rokeya-tribute
+      https://github.com/Madhurikar01/Biography-of-Begum-Rokeya.git 
+2. Navigate to the project directory: cd Biography-of-Begum-Rokeya
 
 3. Open the index.html file in your web browser.
 
