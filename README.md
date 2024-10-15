@@ -11,6 +11,8 @@ This project is a tribute webpage dedicated to **Begum Rokeya Sakhawat Hossain**
 - Overview of her social and political activism
 - Information on her legacy and posthumous awards
 - Eponyms named in her honor
+- Responsive design for various devices and screen sizes ensuring accessibility and usability across platformsr
+
   
 ## Technologies Used
 
