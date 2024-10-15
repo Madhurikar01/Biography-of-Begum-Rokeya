@@ -1,5 +1,5 @@
 body { 
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
     background-color: #f5f5f5;
     color: #333;
     margin: 30px;
@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-    width: 90%;
+    width: 80%;
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -50,8 +50,8 @@ header p {
 }
 
 .biography {
-    max-width: 100%;
-    font-size: 18px;
+    max-width: 95%;
+    font-size: 12px;
     text-align: justify;
 }
 
@@ -112,11 +112,30 @@ li {
     font-size: 20px;
 }
 
+.back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #d8dde3;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    display: none; /* Hidden by default */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.back-to-top:hover {
+    background-color: rgb(9, 108, 110);
+}
+
 footer {
     background-color: rgb(9, 108, 110);
     color: white;
     text-align: center;
-    padding: 16px 0;
+    padding: 30px 0;
     box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
     font-size: 18px;
 }
